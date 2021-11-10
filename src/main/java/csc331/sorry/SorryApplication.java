@@ -17,6 +17,7 @@ public class SorryApplication extends Application {
         stage.setScene(scene);
         stage.setResizable(false);
         stage.show();
+        //Cash money mark
     }
 
     public static void main(String[] args) {

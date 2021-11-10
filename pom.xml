@@ -38,6 +38,11 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <artifactId>javafx-graphics</artifactId>
+            <groupId>org.openjfx</groupId>
+            <version>17-ea+11</version>
+        </dependency>
     </dependencies>
 
     <build>
